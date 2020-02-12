@@ -1,0 +1,43 @@
+#Samche_main_photo{
+    width: 100%;
+    height: 800px;
+}
+
+#Main_section{
+    margin: 1px;
+}
+
+#Main_section_head{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    color: blue;
+}
+
+#Main_section,#Food_section,#Room_section,#Price_section,#Video_section,#Place_section{
+    margin-bottom: 60px;
+    background-color: linen;
+}
+
+#Samche_food{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    margin-right: 100px;
+    display: block;
+}
+
+#Samche_card{
+    background-color: linen;
+    border: none;
+}
+#h2_border{
+    border-bottom: rgb(230, 229, 229) 15px solid;
+}
+
+#Samche_food_photo{
+    width: 100%;
+    height: 650px;
+    display: block;
+}
